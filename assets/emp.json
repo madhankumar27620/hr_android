@@ -1,0 +1,28 @@
+{
+  "emp": [
+    {
+      "id": "1",
+      "name": "Batman",
+      "profile": "https://cdn.pixabay.com/photo/2020/07/01/12/58/icon-5359553_960_720.png",
+      "designation": "CEO"
+    },
+    {
+      "id": "2",
+      "name": "Joker",
+      "profile": "https://www.pngarts.com/files/6/User-Avatar-in-Suit-PNG.png",
+      "designation": "CTO"
+    },
+    {
+      "id": "3",
+      "name": "Lucious Fox",
+      "profile": "https://www.pngarts.com/files/5/Cartoon-Avatar-Transparent-Background-PNG.png",
+      "designation": "Flutter Developer"
+    },
+    {
+      "id": "4",
+      "name": "James Gordon",
+      "profile": "https://www.pngarts.com/files/5/Cartoon-Avatar-Transparent.png",
+      "designation": "Android Developer"
+    }
+  ]
+}
